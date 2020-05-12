@@ -37,8 +37,7 @@ var cantons = [
 ];
 
 // Fonction de triage du tableau des cantons
-// pour que les grosses bulles se retrouvent sous les petites bulles qui deviennent clicables
-
+// pour que les grosses bulles se retrouvent sous les petites bulles qui deviennent ainsi clicables
 var triCantons = cantons.sort(function compare(a, b) {
 	return b.cas - a.cas;
 });
