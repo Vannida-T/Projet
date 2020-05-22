@@ -36,16 +36,16 @@ La carte choisie semblait être la plus judicieuse en terme de visibilité et de
 
 Les bulles sont de deux couleurs différentes pour distinguer les catégories. L'utilisateur peut sélectionner laquelle il souhaite visualiser grâce au menu déroulant.
 
-Les variables retenues sont les stupéfiants les plus "combattus" par la police suisse, à savoir : la cocaïne et l'héroïne. Ces données datent de 2008.
+Les variables retenues sont les stupéfiants les plus "combattus" par la police suisse, à savoir : la cocaïne et l'héroïne. Ces données datent de 2008 et ont été fournies par l'OFS.
 
 ### Apport de la visualisation
 
 Ce graphique permet de se faire aisément une idée de l'ampleur des cas d'un canton à l'autre. L'affichage du nombre d'affaires effectif en pop-up est à un plus, car cela permet de :
 
-- Ne pas surcharger la visualisation inutilement (l'utilisateur n'affiche que ce qu'il est curieux de connaître)
-- Relativiser la taille des bulles (savoir ce que vaut exactement telle taille)
+- Ne pas surcharger la visualisation inutilement => l'utilisateur n'affiche que ce qu'il est curieux de connaître
+- Relativiser la taille des bulles => savoir ce que vaut exactement telle taille
 
-Ces cercles ont un fond translucides de manière à laisser transparaître le nom du canton, ainsi que les petites bulles qui "se font avaler", mais leur bord est opaque pour que le diamètre soit bien net.
+Ces cercles ont un fond translucide de manière à laisser transparaître le nom du canton, ainsi que les petites bulles qui "se font avaler", mais leur bord est opaque pour que le diamètre soit bien net.
 
 ## Outils de travail
 
