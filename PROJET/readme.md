@@ -42,8 +42,8 @@ Les variables retenues sont les stupéfiants les plus "combattus" par la police 
 
 Ce graphique permet de se faire aisément une idée de l'ampleur des cas d'un canton à l'autre. L'affichage du nombre d'affaires effectif en pop-up est à un plus, car cela permet de :
 
-- Ne pas surcharger la visualisation inutilement => l'utilisateur n'affiche que ce qu'il est curieux de connaître
-- Relativiser la taille des bulles => savoir ce que vaut exactement telle taille
+- Ne pas surcharger la visualisation inutilement : l'utilisateur n'affiche que ce qu'il est curieux de connaître
+- Relativiser la taille des bulles : savoir ce que vaut exactement telle taille
 
 Ces cercles ont un fond translucide de manière à laisser transparaître le nom du canton, ainsi que les petites bulles qui "se font avaler", mais leur bord est opaque pour que le diamètre soit bien net.
 
