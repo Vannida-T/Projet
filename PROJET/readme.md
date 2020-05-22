@@ -15,7 +15,7 @@ Le but est de pouvoir se représenter le volume des cas de dénonciations pour c
 	4. Valider le choix en cliquant sur le bouton "AFFICHER"
 	5. Cliquer sur les bulles d'intérêt pour voir le nombre effectif de cas enregistrés
 
-_La mise en page a été soignée de sorte à rendre la navigation agréable, que la fenêtre soit en pleine écran ou réduite._
+_La mise en page a été soignée de sorte à rendre la navigation agréable, que la fenêtre soit en pleine écran ou réduite. Elle a été testée sur Chrome, Firefox, et Microsoft Edge. Le résultat n'est cependant pas garanti pour les autres navigateurs. A noter également qu'une consultation sur smartphone n'est pas recommandée._
 
 <ins> En cas de problème avec le chargement de la page : </ins>
 
