@@ -6,7 +6,7 @@ Le but est de pouvoir se représenter le volume des cas de dénonciations pour c
 
 ## Consultation de la page
 
-- Sur GitHub : [lien vers la visualisation](https://vannida-t.github.io/Projet/index.html)
+- Sur GitHub : [lien vers la visualisation](https://vannida-t.github.io/Projet/PROJET/index.html)
 - Sur un navigateur web :
 
    	1. Télécharger le dossier depuis [GitHub](https://github.com/Vannida-T/Projet.git)
